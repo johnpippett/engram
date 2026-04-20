@@ -13,7 +13,7 @@ Step-by-step setup for running Engram with OpenClaw.
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/dinosoup1/engram.git
+git clone https://github.com/johnpippett/engram.git
 cd engram
 ```
 

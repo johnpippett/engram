@@ -48,7 +48,7 @@ A self-improving personal AI agent with four-layer memory, calendar-aware task r
 
 ```bash
 # 1. Clone
-git clone https://github.com/dinosoup1/engram.git
+git clone https://github.com/johnpippett/engram.git
 cd engram
 
 # 2. Configure
